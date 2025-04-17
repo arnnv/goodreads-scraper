@@ -21,7 +21,7 @@ This project provides tools to scrape book details and recent reviews from Goodr
 1.  **Clone the repository:**
     ```bash
     https://github.com/arnnv/goodreads-scraper.git
-    cd goodreads_scraper
+    cd goodreads-scraper
     ```
 
 2.  **Create and activate a virtual environment (recommended):**
