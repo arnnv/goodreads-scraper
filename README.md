@@ -65,7 +65,7 @@ streamlit run app.py
 
 ## Dependencies
 
-*   Python 3.x
+*   Python 3.10.x
 *   requests
 *   beautifulsoup4
 *   lxml
